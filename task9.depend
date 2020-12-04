@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607084752 source:c:\users\user\desktop\task9\main.c
+	<stdio.h>
+	<stdlib.h>
+
